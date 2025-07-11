@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "feidrysfixedmoreclasses",
+  "name": "FeidrysFixedMoreClasses",
+  "description" : "Adds new classes and improves the system.",
+  "authors": ["Mr1k3", "Feidry"],
+  "version": "1.2.6",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "dependency": {}
+}
