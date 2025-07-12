@@ -100,11 +100,11 @@
 		}
 	},
 	"variantgroups": [
-		{ "code": "type", "states": ["copper" ] },
+		{ "code": "type", "states": ["copper" ] }
 	],
 	"shape": { "base": "game:block/wood/pan/empty" },
 	"textures": {
-		"wood-generic": { "base": "game:block/metal/anvil/copper" },
+		"wood-generic": { "base": "game:block/metal/anvil/copper" }
 	},
 	"doNotRenderAtLod2": true,
 	"blockmaterial": "Metal",
